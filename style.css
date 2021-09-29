@@ -1,0 +1,15 @@
+
+
+
+.firstWord {
+  font-family: 'Open Sans', sans-serif; font-weight: 300; background-color: aliceblue;
+}
+
+.secondWord {
+  font-family: 'Open Sans', sans-serif; font-weight: 400 ; background-color: aliceblue;
+}
+
+.background{
+
+  background-image: url(bank.jpg);
+}
